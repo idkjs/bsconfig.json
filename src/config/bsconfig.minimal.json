@@ -1,0 +1,7 @@
+{
+    "name": "minimal",
+    "sources": {
+        "dir": "src",
+        "subdirs": true
+    }
+  }
