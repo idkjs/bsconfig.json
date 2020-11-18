@@ -19,7 +19,7 @@
   "author": "Alain Armand",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "inquirer": "^6.3.1"
   },
   "repository": {
     "type": "git",
