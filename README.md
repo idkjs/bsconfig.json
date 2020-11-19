@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/bsconfig.json.svg)](https://badge.fury.io/js/bsconfig.json)
+[![NPM version](https://img.shields.io/npm/v/bsconfig.json.svg?style=flat)](https://www.npmjs.com/package/bsconfig.json)
 # bsconfig.json
 
 ```
