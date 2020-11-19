@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "bin": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "release": "npmpub"
   },
   "keywords": [
     "bsconfig",
@@ -28,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/idkjs/bsconfig.json/issues"
   },
-  "homepage": "https://github.com/idkjs/bsconfig.json#readme"
+  "homepage": "https://github.com/idkjs/bsconfig.json#readme",
+  "devDependencies": {
+    "npmpub": "^5.0.0"
+  }
 }
