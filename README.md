@@ -21,7 +21,7 @@ Also check out:
 
 [resattributes](https://github.com/idkjs/resattributes)
 
-[resgitignore](https://github.com/idkjs/resagitignore)
+[resgitignore](https://github.com/idkjs/resgitignore)
 
 [mlxre](https://github.com/idkjs/mlxre)
 
