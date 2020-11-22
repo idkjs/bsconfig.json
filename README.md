@@ -25,4 +25,6 @@ Also check out:
 
 [mlxre](https://github.com/idkjs/mlxre)
 
+[Share on Twitter...](https://twitter.com/share?text=Quickly+generate+a+bsconfig.json+file+ for+reasonml+and+rescript+projects!+https://github.com/idkjs/bsconfig.json)
+
 Inspired by [benawad/tsconfig.json](https://github.com/benawad/tsconfig.json)
