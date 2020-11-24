@@ -15,19 +15,6 @@
       "subdirs": true
     }
   ],
-  "gentypeconfig": {
-    "language": "typescript",
-    "module": "es6",
-    "importPath": "relative",
-    "shims": {
-      "ReasonReact": "ReactShim",
-      "ReactNative": "ReactNative"
-    },
-    "debug": {
-      "all": false,
-      "basic": false
-    }
-  },
   "graphql": {
     "apolloMode": true,
     "extendMutation": "ApolloClient.GraphQL_PPX.ExtendMutation",
