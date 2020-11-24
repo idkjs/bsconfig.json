@@ -1,3 +1,7 @@
+### 1.3.0 (2020-11-24)
+
+#### 1.2.0 (2020-11-24)
+
 ### 1.2.0 (2020-11-24)
 
 #### 1.1.1 (2020-11-24)
@@ -10,6 +14,5 @@
 
 #### 1.0.1 (2020-11-19)
 
-#### 1.0.1 (2020-11-19)
 
-removed gentype from apollo option
+removed gentype and reason-react-native from apollo option
