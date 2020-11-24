@@ -29,7 +29,6 @@
   ],
   "bs-dependencies": [
     "reason-react",
-    "reason-react-native",
     "reason-promise",
     "reason-apollo-client",
     "@reasonml-community/graphql-ppx"
