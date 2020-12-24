@@ -1,3 +1,5 @@
+#### 1.3.0 (2020-12-24)
+change name of react-native config so doesnt conflict with reason-react-native namespace
 ### 1.3.0 (2020-11-24)
 
 ### 1.3.0 (2020-11-24)
