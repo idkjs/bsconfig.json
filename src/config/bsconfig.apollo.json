@@ -1,6 +1,5 @@
 {
   "name": "reason-project",
-  "refmt": 3,
   "reason": {
     "react-jsx": 3
   },
