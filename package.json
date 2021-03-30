@@ -1,6 +1,6 @@
 {
   "name": "bsconfig.json",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "Quickly create an opinionated bsconfig.json",
   "main": "src/index.js",
   "bin": "src/index.js",
@@ -9,7 +9,8 @@
     "release:major": "changelog -M && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version major && git push origin && git push origin --tags",
     "release:minor": "changelog -m && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version minor && git push origin && git push origin --tags",
     "release:patch": "changelog -p && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version patch && git push origin && git push origin --tags",
-    "release": "npmpub"
+    "release": "npmpub",
+    "github-release": "GITHUB_TOKEN=$(cat ~/.github_token.txt) npmpub github-release-from-changelog"
   },
   "keywords": [
     "bsconfig",
@@ -34,6 +35,7 @@
   },
   "homepage": "https://github.com/idkjs/bsconfig.json#readme",
   "devDependencies": {
+    "changelog": "^1.4.2",
     "npmpub": "^5.0.0"
   }
 }
