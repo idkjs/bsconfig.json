@@ -10,6 +10,7 @@
     "release:minor": "changelog -m && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version minor && git push origin && git push origin --tags",
     "release:patch": "changelog -p && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version patch && git push origin && git push origin --tags",
     "release": "npmpub",
+    "test": "echo \"Skip this step\"",
     "github-release": "GITHUB_TOKEN=$(cat ~/.github_token.txt) npmpub github-release-from-changelog"
   },
   "keywords": [
